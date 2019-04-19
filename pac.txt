@@ -4,8 +4,10 @@
 var proxy = "__PROXY__";
 
 var rules = [
+  "|https://us2.darknesschaser.tk",
   "||virmach.com",
   "s3.amazonaws.com",
+  "||github.com",
   "||github.io",
   "cl.ly",
   "||cld.me",
@@ -13,7 +15,6 @@ var rules = [
   "|http://85.17.73.31/",
   "||mozilla.org",
   "||agnesb.fr",
-  "||niqun.club",
   "||akiba-web.com",
   "||altrec.com",
   "||apartmentratings.com",
