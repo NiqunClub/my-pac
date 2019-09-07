@@ -4,7 +4,9 @@
 var proxy = "__PROXY__";
 
 var rules = [
-  "|https://us2.darknesschaser.tk",
+  "||wakatime.com",
+  "https://mikanani.me",
+  "https://us2.darknesschaser.tk",
   "||virmach.com",
   "s3.amazonaws.com",
   "||github.com",
